@@ -8,9 +8,8 @@ All configurations are found in the configs folder sorted by what their purpose 
 
     configs/
         skill-level/
-        solarsystem/
         job-type/
-        
+        solarsystem/
 
 ### skill-level
 
