@@ -89,6 +89,81 @@
     "equipment_skill_te": 0.2,
     "equipment_struct_me": 0.0,
     "equipment_struct_te": 0.0,
+    "hidden_allocation_dict": {
+        "adv_comp_select": "No Structure Bonus",
+        "adv_large_ship_select": "No Structure Bonus",
+        "adv_med_ship_select": "No Structure Bonus",
+        "adv_small_ship_select": "No Structure Bonus",
+        "ammo_select": "No Structure Bonus",
+        "basic_large_ship_select": "No Structure Bonus",
+        "basic_med_ship_select": "No Structure Bonus",
+        "basic_small_ship_select": "No Structure Bonus",
+        "bio_react_select": "No Structure Bonus",
+        "cap_adv_comp_select": "No Structure Bonus",
+        "cap_comp_select": "No Structure Bonus",
+        "cap_ship_select": "No Structure Bonus",
+        "comp_react_select": "No Structure Bonus",
+        "drones_select": "No Structure Bonus",
+        "equipment_select": "No Structure Bonus",
+        "hyb_react_select": "No Structure Bonus",
+        "structure_select": "No Structure Bonus"
+    },
+    "hidden_my_structures": [
+        {
+            "Rig1": "Standup M-Set Biochemical Reactor Material Efficiency I",
+            "Rig2": "No Rig",
+            "Rig3": "No Rig",
+            "id": "Structure 0",
+            "name": "T22 - Bravo",
+            "security": "Null / Wormhole",
+            "structure": "Athanor"
+        },
+        {
+            "Rig1": "Standup M-Set Hybrid Reactor Material Efficiency II",
+            "Rig2": "Standup M-Set Hybrid Reactor Time Efficiency I",
+            "Rig3": "No Rig",
+            "id": "Structure 2",
+            "name": "T22 - Triple DES",
+            "security": "Null / Wormhole",
+            "structure": "Athanor"
+        },
+        {
+            "Rig1": "Standup M-Set Composite Reactor Material Efficiency II",
+            "Rig2": "Standup M-Set Composite Reactor Time Efficiency I",
+            "Rig3": "No Rig",
+            "id": "Structure 3",
+            "name": "T22 - Neko",
+            "security": "Null / Wormhole",
+            "structure": "Athanor"
+        },
+        {
+            "Rig1": "Standup M-Set Composite Reactor Material Efficiency II",
+            "Rig2": "Standup M-Set Composite Reactor Time Efficiency II",
+            "Rig3": "No Rig",
+            "id": "Structure 4",
+            "name": "PC9 - MoonScrape",
+            "security": "Null / Wormhole",
+            "structure": "Athanor"
+        },
+        {
+            "Rig1": "Standup M-Set Composite Reactor Material Efficiency II",
+            "Rig2": "Standup M-Set Composite Reactor Time Efficiency II",
+            "Rig3": "No Rig",
+            "id": "Structure 5",
+            "name": "XP - Gamma",
+            "security": "Null / Wormhole",
+            "structure": "Athanor"
+        },
+        {
+            "Rig1": "Standup M-Set Composite Reactor Material Efficiency II",
+            "Rig2": "Standup M-Set Composite Reactor Time Efficiency I",
+            "Rig3": "Standup M-Set Moon Drilling Stability I",
+            "id": "Structure 6",
+            "name": "XP - Walker's Point",
+            "security": "Null / Wormhole",
+            "structure": "Athanor"
+        }
+    ],
     "hyb_react_rig_me": 0.0,
     "hyb_react_rig_te": 0.0,
     "hyb_react_skill_te": 0.2,

@@ -89,7 +89,6 @@
     "equipment_skill_te": 0.2,
     "equipment_struct_me": 0.0,
     "equipment_struct_te": 0.0,
-
     "hidden_allocation_dict": {
         "adv_comp_select": "Structure 3",
         "adv_large_ship_select": "Structure 4",
@@ -110,6 +109,15 @@
         "structure_select": "Structure 8"
     },
     "hidden_my_structures": [
+        {
+            "Rig1": "Standup M-Set Biochemical Reactor Material Efficiency I",
+            "Rig2": "No Rig",
+            "Rig3": "No Rig",
+            "id": "Structure 12",
+            "name": "T22 - Bravo [Khan Family Holdings]",
+            "security": "Null / Wormhole",
+            "structure": "Athanor"
+        },
         {
             "Rig1": "Standup M-Set Hybrid Reactor Material Efficiency II",
             "Rig2": "Standup M-Set Hybrid Reactor Time Efficiency I",
@@ -138,9 +146,9 @@
             "structure": "Raitaru"
         },
         {
-            "Rig1": "Standup M-Set Basic Large Ship Manufacturing Material Efficiency I",
-            "Rig2": "Standup M-Set Advanced Large Ship Manufacturing Material Efficiency I",
-            "Rig3": "Standup M-Set Basic Capital Component Manufacturing Material Efficiency I",
+            "Rig1": "Standup M-Set Advanced Large Ship Manufacturing Material Efficiency I",
+            "Rig2": "Standup M-Set Basic Capital Component Manufacturing Material Efficiency I",
+            "Rig3": "Standup M-Set Basic Large Ship Manufacturing Material Efficiency I",
             "id": "Structure 4",
             "name": "PC9 - Mon Calamari [EVE University]",
             "security": "Null / Wormhole",
@@ -169,14 +177,14 @@
             "Rig2": "No Rig",
             "Rig3": "No Rig",
             "id": "Structure 7",
-            "name": "PC9 - Ponies Inc [Khan Family Holdings]",
+            "name": "PC9 - Ponies Inc [IVY]",
             "security": "Null / Wormhole",
             "structure": "Azbel"
         },
         {
             "Rig1": "Standup M-Set Basic Medium Ship Manufacturing Material Efficiency II",
-            "Rig2": "Standup M-Set Structure Manufacturing Material Efficiency II",
-            "Rig3": "Standup M-Set Equipment Manufacturing Material Efficiency I",
+            "Rig2": "Standup M-Set Equipment Manufacturing Material Efficiency I",
+            "Rig3": "Standup M-Set Structure Manufacturing Material Efficiency I",
             "id": "Structure 8",
             "name": "PC9 - The Foundry [Forges of Isengard]",
             "security": "Null / Wormhole",
@@ -205,23 +213,14 @@
             "Rig2": "Standup M-Set Structure Manufacturing Material Efficiency I",
             "Rig3": "Standup M-Set Advanced Small Ship Manufacturing Material Efficiency II",
             "id": "Structure 11",
-            "name": "XP - Mari Loli [Low Effort Industries]",
+            "name": "XP - Claire [Low Effort Industries]",
             "security": "Null / Wormhole",
             "structure": "Raitaru"
         },
         {
-            "Rig1": "Standup M-Set Biochemical Reactor Material Efficiency I",
-            "Rig2": "No Rig",
-            "Rig3": "No Rig",
-            "id": "Structure 12",
-            "name": "T22 - Bravo [Khan Family Holdings]",
-            "security": "Null / Wormhole",
-            "structure": "Athanor"
-        },
-        {
-            "Rig1": "Standup M-Set Biochemical Reactor Material Efficiency I",
-            "Rig2": "No Rig",
-            "Rig3": "No Rig",
+            "Rig1": "Standup M-Set Composite Reactor Material Efficiency II",
+            "Rig2": "Standup M-Set Composite Reactor Time Efficiency I",
+            "Rig3": "Standup M-Set Moon Drilling Stability I",
             "id": "Structure 13",
             "name": "XP - Walker's Point [Sid's Used Rorqual Imporium]",
             "security": "Null / Wormhole",
